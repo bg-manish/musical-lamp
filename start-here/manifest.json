@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "LiveLabs in MG Library",
+    "tutorials": [
+        {
+            "title": "Welcome to MG space!",
+            "description": "This is the landing page for the oracle/learning-library repo",
+            "filename": "./../common/intro/readme.md"
+        },
+        {
+            "title": "Lab 1: MG Library",
+            "description": "This is the landing page for the oracle/learning-library repo",
+            "filename": "./../common/mg-library/mg-library.md"
+        },
+        {
+            "title": "Lab #: Access VM and Configure VNC",
+            "description": "Access VM and configure vnc.",
+            "filename": "./../common/mg-library/procedures/access-vm-config-vnc/access-vm-config-vnc.md"
+        },
+        {
+            "title": "Lab #: Oracle Database 21c Gold Image",
+            "description": "Pre-installation setup, post installation steps, troubleshooting.",
+            "filename": "./../common/mg-library/procedures/install-db-goldimage/install-db-goldimage.md"
+        },
+        {
+            "title": "Lab #: Install Oracle EMCC 13.5",
+            "description": "Pre-installation setup, EMCC installation, troubleshooting, EMCC Deinstallation.",
+            "filename": "./../common/mg-library/procedures/install-emcc/install-emcc.md"
+        },
+        {
+            "title": "Lab #: Compute Instance and Custom Images",
+            "description": "Description",
+            "filename": "./../common/mg-library/procedures/compute-instance-custom-image/compute-instance-custom-image.md"
+        }
+    ]
+}
